@@ -7,6 +7,9 @@
 
 https://drive.google.com/file/d/1r528seOGkP5KnC8o5gIGX6xa5ZwKujMq/view?usp=sharing
 
+## Aprendizados
+
+Alguns dos fundamentos básicos aprendidos e aplicados durante o desenvolvimento do projeto foram : arrays, strings, objects, functions, loops, if/else statements, e mais.
 
 ## Screenshots
 
@@ -17,6 +20,3 @@ https://drive.google.com/file/d/1r528seOGkP5KnC8o5gIGX6xa5ZwKujMq/view?usp=shari
 ![derrota](https://github.com/PuliSaglio/RP-Game-JS/assets/59888207/3b716440-a25b-47e7-b632-d092069e2740)
 
 
-## Aprendizados
-
-Alguns dos fundamentos básicos aprendidos e aplicados durante o desenvolvimento do projeto foram : arrays, strings, objects, functions, loops, if/else statements, e mais.
